@@ -3,4 +3,4 @@ writer:
   ports:
     - "39000:9000"
   volumes:
-    - $PWD/contents:/opt/docker/contents
+    - D:/Data/GithubDesktop/marine/contents:/opt/docker/contents
