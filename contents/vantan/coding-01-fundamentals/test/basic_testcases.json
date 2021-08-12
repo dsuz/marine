@@ -1,0 +1,8 @@
+[
+   {
+      "input": "in/basic/test00.in",
+      "output": "out/basic/test00.out",
+      "description": "[基本実装] 最低限のプログラミング能力を確認する。標準入出力を扱い、演算ができる。\r\n",
+      "description_en": "[Basic] No description.\r\n"
+   }
+]
