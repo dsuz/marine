@@ -8,9 +8,9 @@
 - 1 番目のフィボナッチ数は 1 である
 - 2 番目以降のフィボナッチ数は、直前の 2 つのフィボナッチ数の和である
 
-つまり、n 番目（ただし、n >= 2 とする）のフィボナッチ数を F<sub>n</sub> とすると、以下の式が成り立つ。
+つまり、n 番目（ただし、n >= 2 とする）のフィボナッチ数を *F<sub>n</sub>* とすると、以下の式が成り立つ。
 
-​    F<sub>n</sub> = F<sub>n-1</sub> + F<sub>n-2</sub>
+- *F<sub>n</sub>* = *F<sub>n-1</sub>* + *F<sub>n-2</sub>*
 
 ### 入力ルール
 
@@ -109,22 +109,22 @@ using System;
 
 public class Program
 {
-	public static void Main()
-	{
-		var line = Console.ReadLine();
-		var n = int.Parse(line);
-		Console.WriteLine(Fibonacci(n));
-	}
-	
-	static int Fibonacci(int n)
-	{
-		if (n == 0)
-		{
-			return 0;
-		}
-		
-		// この関数にフィボナッチ数を求める処理を記述せよ
-	}
+    public static void Main()
+    {
+        var line = Console.ReadLine();
+        var n = int.Parse(line);
+        Console.WriteLine(Fibonacci(n));
+    }
+    
+    static int Fibonacci(int n)
+    {
+        if (n == 0)
+        {
+            return 0;
+        }
+        
+        // この関数にフィボナッチ数を求める処理を記述せよ
+    }
 }
 ```
 
