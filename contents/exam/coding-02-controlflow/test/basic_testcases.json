@@ -16,5 +16,23 @@
       "output": "out/basic/test02.out",
       "description": "[基本実装] 制御構文を適切に使うことができる。",
       "description_en": "[Basic] No description."
+   },
+   {
+      "input": "in/basic/test03.in",
+      "output": "out/basic/test03.out",
+      "description": "[基本実装] 制御構文を適切に使うことができる。",
+      "description_en": "[Basic] No description."
+   },
+   {
+      "input": "in/basic/test04.in",
+      "output": "out/basic/test04.out",
+      "description": "[基本実装] 制御構文を適切に使うことができる。",
+      "description_en": "[Basic] No description."
+   },
+   {
+      "input": "in/basic/test05.in",
+      "output": "out/basic/test05.out",
+      "description": "[基本実装] 制御構文を適切に使うことができる。",
+      "description_en": "[Basic] No description."
    }
 ]
