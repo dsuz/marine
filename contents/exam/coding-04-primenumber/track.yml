@@ -27,7 +27,7 @@ images: # 画像を使用するチャレンジ以外では削除
 
 testcases:
   open: 5
-  secret: 1
+  secret: 15
 
 evaluationPoint:
   "基本実装" : "素数判定のプログラムを書くことができる。"
