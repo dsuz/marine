@@ -26,7 +26,7 @@ images: # 画像を使用するチャレンジ以外では削除
   - img/*.png
 
 testcases:
-  open: 1
+  open: 7
   secret: 1
 
 evaluationPoint:

@@ -4,5 +4,41 @@
       "output": "out/basic/test00.out",
       "description": "[基本実装] 最低限のプログラミング能力を確認する。標準入出力を扱い、演算ができる。\r\n",
       "description_en": "[Basic] No description.\r\n"
+   },
+   {
+      "input": "in/basic/test01.in",
+      "output": "out/basic/test01.out",
+      "description": "[基本実装] 最低限のプログラミング能力を確認する。標準入出力を扱い、演算ができる。\r\n",
+      "description_en": "[Basic] No description.\r\n"
+   },
+   {
+      "input": "in/basic/test02.in",
+      "output": "out/basic/test02.out",
+      "description": "[基本実装] 最低限のプログラミング能力を確認する。標準入出力を扱い、演算ができる。\r\n",
+      "description_en": "[Basic] No description.\r\n"
+   },
+   {
+      "input": "in/basic/test03.in",
+      "output": "out/basic/test03.out",
+      "description": "[基本実装] 最低限のプログラミング能力を確認する。標準入出力を扱い、演算ができる。\r\n",
+      "description_en": "[Basic] No description.\r\n"
+   },
+   {
+      "input": "in/basic/test04.in",
+      "output": "out/basic/test04.out",
+      "description": "[基本実装] 最低限のプログラミング能力を確認する。標準入出力を扱い、演算ができる。\r\n",
+      "description_en": "[Basic] No description.\r\n"
+   },
+   {
+      "input": "in/basic/test05.in",
+      "output": "out/basic/test05.out",
+      "description": "[基本実装] 最低限のプログラミング能力を確認する。標準入出力を扱い、演算ができる。\r\n",
+      "description_en": "[Basic] No description.\r\n"
+   },
+   {
+      "input": "in/basic/test06.in",
+      "output": "out/basic/test06.out",
+      "description": "[基本実装] 最低限のプログラミング能力を確認する。標準入出力を扱い、演算ができる。\r\n",
+      "description_en": "[Basic] No description.\r\n"
    }
 ]
