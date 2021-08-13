@@ -5,7 +5,7 @@
 素数の定義は以下を両方とも満たす整数とする。
 
 - 1 より大きい整数である
-- 1 と自分自身以外の整数では割り切れない
+- 1 と自分自身以外の正の整数では割り切れない
 
 入力された整数 N が素数である場合は「素数」、そうでない場合は「素数ではない」と出力せよ。
 
@@ -93,26 +93,26 @@ using System;
 
 public class Program
 {
-	public static void Main()
-	{
-		string line = Console.ReadLine();
-		int n = int.Parse(line);
-		
-		if (IsPrime(n))
-		{
-			Console.WriteLine("素数");
-		}
-		else
-		{
-			Console.WriteLine("素数ではない");
-		}
-	}
-	
-	static bool IsPrime(int n)
-	{
+    public static void Main()
+    {
+        string line = Console.ReadLine();
+        int n = int.Parse(line);
+        
+        if (IsPrime(n))
+        {
+            Console.WriteLine("素数");
+        }
+        else
+        {
+            Console.WriteLine("素数ではない");
+        }
+    }
+    
+    static bool IsPrime(int n)
+    {
         // ここに素数判定の処理を追加せよ
-		return false;
-	}
+        return false;
+    }
 }
 ```
 
